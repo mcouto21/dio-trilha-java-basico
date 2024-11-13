@@ -18,7 +18,7 @@ public class ContaTerminal {
 	 * 
 	 * @done Utilizar a classe Scanner
 	 * @done Exibir mensagens pedindo os dados de entrada
-	 * @done Armazenar os dadis recebidos
+	 * @done Armazenar os dados recebidos
 	 * @done Exibir uma mensagem com todos os dados informados
 	 * @done Extra: Adicionado tratamento para InputMismatchException 
 	 * @done Extra: Adicionada tratativa sobre nomeCliente, usando função do Scanner para aceitar entrada de nomes que contenham espaço
